@@ -1,0 +1,1 @@
+RabbitMQ related diagrams
